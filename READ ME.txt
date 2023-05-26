@@ -1,4 +1,4 @@
 This is an ecommerce platform with Laravel,blade and react.
-Here I worked for the user Admin
-The project is more focused on backend
+Here I worked for the user Admin.
+The project is more focused on backend.
 Most of the views are in blade with backend and some of the views are in front-end.
